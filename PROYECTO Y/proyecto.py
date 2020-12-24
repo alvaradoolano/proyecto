@@ -1,6 +1,6 @@
 import tkinter#libreria para graficar
 from tkinter import ttk#libreria para graficar lienzo
-
+#libreria para graficar
 ventana=tkinter.Tk()#creacion de la ventana
 ventana.geometry("1100x600")#tamaño de la ventana
 ventana.title("polleria")#creacion de titulo de ventana
